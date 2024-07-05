@@ -1,5 +1,4 @@
 // import AdvancedForm from "./Components/AdvancedForm";
-// import Apii from "./Components/Apii";
 // import MultipleSelect from "./Components/MultipleSelect";
 // import SearchableSelect from "./Components/SearchableSelect";
 
@@ -11,7 +10,6 @@ function App() {
       {/* <AdvancedForm/> */}
       {/* <SearchableSelect/> */}
       {/* <MultipleSelect/> */}
-      {/* <Apii/> */}
       <FileUpload/>
 
     </div>
